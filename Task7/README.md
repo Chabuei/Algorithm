@@ -1,4 +1,4 @@
-# task3 and 5
+# task7
 task5の内容はtask3の派生であるため、ここではtask3とtask5をまとめて説明する<br>
 ![solver1](https://github.com/Chabuei/DQN_Practice/assets/102859047/af98cdc3-22d6-4d8a-9bce-7b8e633b615f)
 ![solver2](https://github.com/Chabuei/DQN_Practice/assets/102859047/be5c4e79-808d-4bc5-8ce0-e57b41103205)<br>
