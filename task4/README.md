@@ -1,0 +1,3 @@
+# task4
+input.txtをtask4_solver.pyにリダイレクトすると起動します(Windows環境だとリダイレクトがうまくいかないことがある※mac推奨)<br>
+task4はtask2を改良したものが課題内容だった。simのチームではtask2を作成した時点でtask4の機能要件を満たしていたため、task2とほとんど同じプログラムになっている
